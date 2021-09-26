@@ -1,0 +1,17 @@
+body {
+    margin:0;
+}
+
+#arm {
+    display:none;
+}
+
+canvas {
+    border:1px blue solid;
+}
+
+svg {
+    position: fixed;
+    z-index:999;
+    border:1px blue solid;
+}
